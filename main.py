@@ -1,7 +1,7 @@
 import gfh
 
 # 頭部運動データの読み込み
-head_seq = gfh.load_file( 'output_ASDhead.csv' )
+head_seq = gfh.load_file( 'output_csv\output_ASDhead.csv' )
 
 # 視線推定
 gaze_seq = gfh.estimate_gaze(  head_seq, model = "3DoF" )
