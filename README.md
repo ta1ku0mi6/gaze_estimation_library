@@ -39,7 +39,7 @@ VRゴーグルを使い得られた頭部・眼球運動のデータを方向ベ
 TD,ASDのグラフとヒストグラムの結果は，[result(estimation_gaze)](https://github.com/ta1ku0mi6/gaze_estimation_library/tree/45425d1c165b00f6ed1b992abf37f1eb7d27fb5b/result(estimation_gaze))にあります．
 
 
-##　おわりに
+## おわりに
 
 上記の流れで研究の再現ができると思います．
 研究頑張ってください!
