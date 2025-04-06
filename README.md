@@ -12,7 +12,7 @@
 本研究では仮想環境であるanaconda3を使用しました．
 
 ## 研究の流れ
-VRゴーグルを使い得られた頭部・眼球運動のデータを方向ベクトルから水平・垂直の角度情報に変換します．ワールド座標(0, 0, 0)にあるカメラ位置を原点に，左手座標系でx,y,z軸を取っています．正面方向はz軸方向です．[image_480](https://github.com/user-attachments/assets/f62e0294-08a9-4d01-b138-30515dabd011)
-[caluculate.py](https://github.com/ta1ku0mi6/gaze_estimation_library/blob/adee66b7c6354ca429f20b8e6189570fca4f82cb/caluculate.py)を使用．!
+VRゴーグルを使い得られた頭部・眼球運動のデータを方向ベクトルから水平・垂直の角度情報に変換します．ワールド座標(0, 0, 0)にあるカメラ位置を原点に，左手座標系でx,y,z軸を取っています．正面方向はz軸方向です．![image_480](https://github.com/user-attachments/assets/f62e0294-08a9-4d01-b138-30515dabd011)
+[caluculate.py](https://github.com/ta1ku0mi6/gaze_estimation_library/blob/adee66b7c6354ca429f20b8e6189570fca4f82cb/caluculate.py)を使用．
 
 
