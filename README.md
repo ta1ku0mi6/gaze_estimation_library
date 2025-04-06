@@ -21,6 +21,7 @@ VRゴーグルを使い得られた頭部・眼球運動のデータを方向ベ
 ![image_480](https://github.com/user-attachments/assets/f62e0294-08a9-4d01-b138-30515dabd011)
 
 2️⃣出力されたデータを用いて眼球頭部強調運動モデルにかける
+
 [main.py](https://github.com/ta1ku0mi6/gaze_estimation_library/blob/1bee185ab05a125eb7f36f0db34b8b9309e1da59/main.py)を使用します．TDのデータをモデルにかける際は[gfh.py](https://github.com/ta1ku0mi6/gaze_estimation_library/blob/79198268c9f8a9b7ad1c31084f6d816dd0dda134/gfh.py)の119行目をコメントアウト，ASDの場合は121行目をコメントアウトしてください．
 
 モデル適用後のデータは[result(transformation)](https://github.com/ta1ku0mi6/gaze_estimation_library/tree/066e05f63fa1258b0d3e0e85ba84127de5297474/result(transformation))に保存されます．
