@@ -14,7 +14,7 @@
 
 ## 研究の流れ
 1️⃣VRゴーグルを使い得られた頭部・眼球運動のデータを方向ベクトルから水平・垂直の角度情報に変換します．ワールド座標(0, 0, 0)にあるカメラ位置を原点に，左手座標系でx,y,z軸を取っています．正面方向はz軸方向です．データは[input_csv](https://github.com/ta1ku0mi6/gaze_estimation_library/tree/cc1e08b2085ba5da58421dc6efbb2b82a9c93d5b/input_csv)にあります．
-角度情報への変換には[caluculate.py](https://github.com/ta1ku0mi6/gaze_estimation_library/blob/adee66b7c6354ca429f20b8e6189570fca4f82cb/caluculate.py)を使用．
+角度情報への変換には[caluculate.py](https://github.com/ta1ku0mi6/gaze_estimation_library/blob/adee66b7c6354ca429f20b8e6189570fca4f82cb/caluculate.py)を使用し，
 変換後のデータは[output_csv](https://github.com/ta1ku0mi6/gaze_estimation_library/tree/e4c6a7c398a527cfa58012c30df70a132cb34950/output_csv)に保存されます．
 ![image_480](https://github.com/user-attachments/assets/f62e0294-08a9-4d01-b138-30515dabd011)
 
